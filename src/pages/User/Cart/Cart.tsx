@@ -6,7 +6,6 @@ import { formatCash } from '../../../utils/formatCash'
 import { CloseOutlined } from "@ant-design/icons";
 import { PageHeader, Space } from "antd";
 import { Button } from "antd/lib/radio";
-import { useDispatch, useSelector } from "react-redux";
 import styled from "styled-components";
 import { Link } from 'react-router-dom'
 

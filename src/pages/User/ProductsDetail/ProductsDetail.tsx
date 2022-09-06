@@ -19,7 +19,6 @@ const { Text, Title } = Typography;
 import Card from "antd/lib/card/Card";
 import LogoImage from "../../../assets/image/Rectangle.png";
 import { StarOutlined } from "@ant-design/icons";
-import { useDispatch } from "react-redux";
 
 const style: React.CSSProperties = {
   background: "#ffffff",

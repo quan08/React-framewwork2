@@ -5,7 +5,6 @@ import UploadImage from "../../../components/Product/UploadImage";
 import { createProduct, getById, updateProduct } from "../../../api/product";
 import { useNavigate, useParams } from "react-router-dom";
 import UploadTest from "../../../components/Product/UploadTest";
-import { useForm } from "react-hook-form";
 import { ProductTye } from "../../../types/product";
 
 const { TextArea } = Input
