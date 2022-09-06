@@ -1,6 +1,5 @@
 // eslint-disable-next-line no-unused-vars
 import { message } from "antd";
-import "toastr/build/toastr.min.css";
 
 export const setLocalStorage = (key: any, value: any) => {
     localStorage.setItem(key, JSON.stringify(value));
